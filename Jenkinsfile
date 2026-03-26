@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "sudev"
-        DOCKERHUB_USER = "surajanagandula"
+        DOCKERHUB_USER = "pavvi25"
     }
 
     stages {
