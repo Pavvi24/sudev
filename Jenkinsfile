@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "sudev"
+        IMAGE_NAME = "water"
         DOCKERHUB_USER = "pavvi25"
     }
 
